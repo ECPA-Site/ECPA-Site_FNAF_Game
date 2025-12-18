@@ -1,0 +1,5 @@
+{
+  "name": "React Five Nights",
+  "description": "A survival horror simulation based on FNAF mechanics using React and Tailwind.",
+  "requestFramePermissions": []
+}
